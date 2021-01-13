@@ -57,7 +57,7 @@
     "handlebars-helper-analytics": "^0.1.1",
     "less": "^1.7.3",
     "load-grunt-tasks": "^0.6.0",
-    "pretty": "^0.1.2",
+    "pretty": "^2.0.0",
     "screenfull": "^1.2.1",
     "time-grunt": "^0.4.0",
     "verb": "^0.2.13"
