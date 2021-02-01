@@ -55,7 +55,7 @@
     "grunt-contrib-watch": "^0.6.1",
     "grunt-modernizr": "^0.5.2",
     "handlebars-helper-analytics": "^0.1.1",
-    "less": "^1.7.3",
+    "less": "^4.1.1",
     "load-grunt-tasks": "^0.6.0",
     "pretty": "^0.1.2",
     "screenfull": "^1.2.1",
